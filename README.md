@@ -1,16 +1,21 @@
-## Hi there 👋
+### Seja bem-vindo! Me chamo Rafael
 
-<!--
-**CARRIEL6725/CARRIEL6725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um Pouco Sobre Mim
+Tenho grande interesse por tecnologia e, desde que entrei na faculdade de Ciência da Computação em 2025, venho me dedicando intensamente aos estudos e projetos. Antes disso, tive apenas contatos pontuais com programação, mas foi na faculdade que encontrei meu verdadeiro caminho. Hoje, no segundo semestre, sigo motivado e empolgado com tudo o que estou aprendendo e construindo.
 
-Here are some ideas to get you started:
+---
+## O progresso atual
+Atualmente, estou focado em aprender back-end com Java e estou gostando muito da linguagem. Além disso, sigo aperfeiçoando minhas habilidades em Python, que foi meu primeiro contato com a programação. Quero melhorar minhas técnicas nas duas linguagens.
+Também comecei um curso de análise de dados com Python, estou me preparando para estudar SQL em breve, já que é uma área que também vem chamando minha atenção e quero entender melhor como funciona.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Tecologias e Habilidades.
+![Python](https://img.shields.io/badge/Python-INTERMEDIÁRIO-blue?style=for-the-badge&logo=python)
+
+![Java](https://img.shields.io/badge/Java-APRENDENDO-green?style=for-the-badge&logo=)
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Fraça-blue)](https://www.linkedin.com/in/rafael-carriel)
+
+
+![Email]( https://img.shields.io/badge/email-rafael.carriel21@gmail.com-orange)
